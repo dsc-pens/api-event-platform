@@ -12,8 +12,8 @@ Events API server powered by [Airtable](https://airtable.com/) and [ZEIT Now](ht
 - and more in the future ...
 
 ## Resources
-* [Gatsby documentation](https://www.gatsbyjs.org/docs/)
-* [Tailwind documentation](https://tailwindcss.com/docs/what-is-tailwind/)
+* [NodeJS documentation](https://nodejs.org/en/docs/)
+* [Airtable API documentation](https://airtable.com/api)
 * [Prettier documentation](https://prettier.io/docs/en/index.html)
 * [ESLint documentation](https://eslint.org/docs/user-guide/configuring)
 
