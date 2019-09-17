@@ -1,12 +1,13 @@
 {
-  "name": "@surabayajs/events",
+  "name": "@dscpens/events",
   "description": "Fetch events from our Airtable base",
   "version": "1.0.0",
-  "repository": "git@github.com:SurabayaJS/events.git",
-  "author": "Griko Nibras <grikomsn@gmail.com>",
+  "repository": "git@github.com:dscpens/event-platformv2.git",
+  "author": "Ahmat Dani S <ahmatdanis24@gmail.com>",
   "scripts": {},
   "dependencies": {
-    "airtable": "^0.7.1"
+    "airtable": "^0.7.1",
+    "now": "^16.2.0"
   },
   "devDependencies": {},
   "private": true,

@@ -1,7 +1,7 @@
 {
-  "name": "events",
+  "name": "eventplatformv2",
   "version": 2,
-  "alias": ["events.surabayajs.org"],
+  "alias": ["dscpens-events.now.sh"],
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "env": {
     "AIRTABLE_API_KEY": "@airtable_api_key",
