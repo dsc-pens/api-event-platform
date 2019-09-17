@@ -1,7 +1,7 @@
 {
-  "name": "eventplatformv2",
+  "name": "api-event-platform",
   "version": 2,
-  "alias": ["dscpens-events.now.sh"],
+  "alias": ["api-dscpens-events.now.sh"],
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "env": {
     "AIRTABLE_API_KEY": "@airtable_api_key",
