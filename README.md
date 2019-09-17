@@ -6,7 +6,7 @@ Events API server powered by [Airtable](https://airtable.com/) and [ZEIT Now](ht
 
 ## Features ##
 
-- :zap: NodeJS [NodeJS](https://nodejs.org/en/about/)
+- :zap: [NodeJS](https://nodejs.org/en/about/)
 - Hosted in [Zeit](https://www.zeit.co/):rocket:
 - Support Progressive Web Apps
 - and more in the future ...
